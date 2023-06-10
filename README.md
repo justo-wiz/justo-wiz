@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://justo-me.herokuapp.com](https://justo-me.herokuapp.com)
 
-- 💬 Ask me about **React | Laravel | Adroid | Java | Node js | Javascript**
+- 💬 Ask me about **React | Laravel | Android | Java | Node js | Javascript**
 
 - 📫 How to reach me **justomwesh3@gmail.com**
 
